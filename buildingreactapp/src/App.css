@@ -1,0 +1,18 @@
+.App{
+    background-color: oldlace;
+    height: 600px;
+    width: 400px;
+    color: navy;
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+}
+
+.clickme{
+    margin-top: 5px;
+    height: 20px;
+    width: 40px;
+    background-color: orange;
+    color: black;
+    display: flex;
+}
